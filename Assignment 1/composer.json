@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "toolkit\\": "src/Database"}
+        },
+
+
+    "require": {
+        "phpunit/phpunit": "5.4.x-dev"
+
+    }
+
+}
